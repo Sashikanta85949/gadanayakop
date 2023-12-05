@@ -65,10 +65,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config.SUPPORT_CHANNEL
+                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config."https://t.me/STATUSDAIRY2"
             ),
             InlineKeyboardButton(
-                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config.SUPPORT_GROUP
+                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config."https://t.me/voiceofheart0"
             )
         ],
         [           
@@ -140,15 +140,14 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config.SUPPORT_CHANNEL
+                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config."https://t.me/STATUSDAIRY2"
             ),
             InlineKeyboardButton(
-                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config.SUPPORT_GROUP
+                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config."https://t.me/voiceofheart0"
             )
         ],
         [           
-            InlineKeyboardButton(
-                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+        
             )
         ],
         [
@@ -164,15 +163,14 @@ def stream_markup(_, videoid, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config.SUPPORT_CHANNEL
+                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config."https://t.me/STATUSDAIRY2"
             ),
             InlineKeyboardButton(
-                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config.SUPPORT_GROUP
+                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config."https://t.me/voiceofheart0"
             )
         ],
         [           
-            InlineKeyboardButton(
-                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+    
             )
         ],
         [
@@ -210,16 +208,15 @@ def telegram_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config.SUPPORT_CHANNEL
+                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config."https://t.me/STATUSDAIRY2"
             ),
             InlineKeyboardButton(
-                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config.SUPPORT_GROUP
+                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config."https://t.me/voiceofheart0"
             )
         ],
         [           
-            InlineKeyboardButton(
-                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@BikashGadgetsTech"
-            )
+            
+            
         ],
         [
             InlineKeyboardButton(
@@ -382,15 +379,14 @@ def queue_markup(_, videoid, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config.SUPPORT_CHANNEL
+                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config."https://t.me/STATUSDAIRY2"
             ),
             InlineKeyboardButton(
-                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config.SUPPORT_GROUP
+                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config."https://t.me/voiceofheart0"
             )
         ],
         [           
-            InlineKeyboardButton(
-                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+
             )
         ],
         [
@@ -428,15 +424,14 @@ def telegram_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config.SUPPORT_CHANNEL
+                text="💖 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💖", url=config."https://t.me/STATUSDAIRY2"
             ),
             InlineKeyboardButton(
-                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config.SUPPORT_GROUP
+                text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config."https://t.me/voiceofheart0"
             )
         ],
         [           
-            InlineKeyboardButton(
-                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+            
             )
         ],
         [
